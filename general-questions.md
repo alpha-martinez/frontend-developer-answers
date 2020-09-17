@@ -18,3 +18,4 @@ For the ApartMate app, I posted it on my Linkedin to spread awareness to my fell
 
 In my linkedin posts, I used keywords such as Javascript, HTML, CSS to make my posts stand out and get more attention from other people who are interested in seeing what I had to show or give me any few pointers if needed. 
 
+## Can you explain any common techniques or recent issues solved in regards to front-end security?
