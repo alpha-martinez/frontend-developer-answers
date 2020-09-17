@@ -42,7 +42,10 @@ var foo = "Hello";
     alert(foo + bar);
 })(); 
 alert(foo + bar);
-//Hello World is the first outcome and the second outcome is bar comes back undefine because bar was defined inside the function and not outside like foo was. 
+//Hello World is the first outcome and 
+//the second outcome for bar comes back undefine 
+//because bar was defined inside the function 
+//and not outside like foo was. 
 ```
 
 ## Question: What is the value of foo.length?
